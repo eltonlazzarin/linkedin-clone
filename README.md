@@ -73,10 +73,10 @@ $ cd linkedin-clone
 
 ```bash
 # Install the dependencies
-$ npm i
+$ yarn
 
 # Run the web app
-$ npm start
+$ yarn start
 ```
 
 ## 🤔 How to contribute
