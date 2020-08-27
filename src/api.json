@@ -1,0 +1,38 @@
+[
+  {
+    "avatar_url": "https://github.com/eltonlazzarin.png",
+    "user_name": "Elton Lazzarin",
+    "header": "Fullstack Developer | Node.js | ReactJS | React Native | IT Infrastructure Analyst",
+    "time": "45m",
+    "post_img": "https://github.com/eltonlazzarin/github-clone-reactjs/blob/master/screenshots/mobile.png?raw=true",
+    "reactions_counter": 14,
+    "comments": 5
+  },
+  {
+    "avatar_url": "https://randomuser.me/api/portraits/men/4.jpg",
+    "user_name": "Luim Oswui",
+    "header": "JavaScript Developer | ReactJS | NodeJS 🚀🚀",
+    "time": "15h",
+    "post_img": "https://morpheus-v2-marketing-production.s3.amazonaws.com/system/SpudMedia/200/attachment/js_original.jpg",
+    "reactions_counter": 6,
+    "comments": 2
+  },
+  {
+    "avatar_url": "https://randomuser.me/api/portraits/women/11.jpg",
+    "user_name": "Mihas Kuzio",
+    "header": "UX/UI Designer",
+    "time": "2d",
+    "post_img": "https://ebac.art.br/upload/resize_cache/iblock/952/770_500_2/uxandui.jpg",
+    "reactions_counter": 11,
+    "comments": 4
+  },
+  {
+    "avatar_url": "https://randomuser.me/api/portraits/men/35.jpg",
+    "user_name": "Bahobek Hiol",
+    "header": "Founder & CEO | Educational carrers ❤️",
+    "time": "1w",
+    "post_img": "https://saymonbs.com.br/wp-content/uploads/2019/04/saymonbs-treinamento-in-company.jpg",
+    "reactions_counter": 25,
+    "comments": 9
+  }
+]
