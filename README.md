@@ -39,9 +39,7 @@
 <p align="center">
   <button><a href="https://linkedin-clone-ui.netlify.app/"><img alt="Demo" src="https://github.com/eltonlazzarin/reactjs-rocketfy-app/blob/master/screenshot/demo.png" target="_blank"></img></a></button>
 
-<p>This is a project that consists of creating a clone of the Discord website that was conceived from an online class. The project was developed in ReactJS together with TypeScript and other tools.
-
-In addition to the UI that looks like Discord, some features were created in the project, including being able to type and view messages in real time, giving a more realistic and interactive appearance.</p>
+<p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
 
 ## 🚀 Technologies
 
