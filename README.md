@@ -33,7 +33,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/linkedin-clone/blob/master/screenshots/discordclone.gif" />
+	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/linkedin-clone/blob/master/screenshots/linkedin.gif" />
 </h1>
 
 <p align="center">
